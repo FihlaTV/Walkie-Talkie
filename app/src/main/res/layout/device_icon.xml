@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         style="@style/Base.TextAppearance.AppCompat.Medium"
-        android:text="Hello"
+        android:text="Qtune. Over?"
         android:textColor="#000000" />
 </LinearLayout>
 <!--<TextView-->
